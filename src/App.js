@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  return <div className="App">to do</div>;
+  return <div className="App">Framer todo</div>;
 }
 
 export default App;
